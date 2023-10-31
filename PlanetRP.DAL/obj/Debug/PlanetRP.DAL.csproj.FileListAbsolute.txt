@@ -1,0 +1,15 @@
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DAL.deps.json
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DAL.runtimeconfig.json
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DAL.dll
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DAL.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.csproj.AssemblyReference.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.AssemblyInfoInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.AssemblyInfo.cs
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.csproj.CoreCompileInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.csproj.CopyComplete
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\refint\PlanetRP.DAL.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\PlanetRP.DAL.genruntimeconfig.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DAL\obj\Debug\ref\PlanetRP.DAL.dll

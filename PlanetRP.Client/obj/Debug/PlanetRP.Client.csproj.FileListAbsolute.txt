@@ -1,0 +1,13 @@
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-client\PlanetRP.Client.deps.json
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-client\PlanetRP.Client.dll
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-client\PlanetRP.Client.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.csproj.AssemblyReference.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.AssemblyInfoInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.AssemblyInfo.cs
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.csproj.CoreCompileInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.csproj.CopyComplete
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\refint\PlanetRP.Client.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\PlanetRP.Client.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.Client\obj\Debug\ref\PlanetRP.Client.dll

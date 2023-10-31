@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\..\resources\planetrp\planetrp-client</OutputPath>
+    <DebugType>portable</DebugType>
+
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>..\..\resources\planetrp\planetrp-client</OutputPath>
+    <DebugType>portable</DebugType>
+
+  </PropertyGroup>
+
+  <Target Name="CustomBeforeBuild" BeforeTargets="BeforeBuild">
+    <Exec Command="..\..\csharp-scripts\sharedgenerator\SharedGenerator.exe" />
+  </Target>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net.Client" Version="15.0.27-rc" />
+    <PackageReference Include="AltV.Net.Client.Async" Version="15.0.27-rc" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PlanetRP.DependencyInjectionExtensions\PlanetRP.DependencyInjectionsExtensions.csproj" />
+    <ProjectReference Include="..\PlanetRP.Shared\PlanetRP.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>

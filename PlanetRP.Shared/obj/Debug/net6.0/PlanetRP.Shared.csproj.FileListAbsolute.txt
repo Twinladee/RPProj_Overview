@@ -1,0 +1,11 @@
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\net6.0\PlanetRP.Shared.deps.json
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\net6.0\PlanetRP.Shared.dll
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\net6.0\PlanetRP.Shared.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\PlanetRP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\PlanetRP.Shared.AssemblyInfoInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\PlanetRP.Shared.AssemblyInfo.cs
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\PlanetRP.Shared.csproj.CoreCompileInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\PlanetRP.Shared.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\refint\PlanetRP.Shared.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\PlanetRP.Shared.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.Shared\obj\Debug\net6.0\ref\PlanetRP.Shared.dll

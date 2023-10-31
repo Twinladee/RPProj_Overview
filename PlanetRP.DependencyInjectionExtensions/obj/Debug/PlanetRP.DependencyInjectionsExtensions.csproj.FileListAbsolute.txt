@@ -1,0 +1,13 @@
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DependencyInjectionsExtensions.deps.json
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DependencyInjectionsExtensions.dll
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.DependencyInjectionsExtensions.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.csproj.AssemblyReference.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.AssemblyInfoInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.AssemblyInfo.cs
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.csproj.CoreCompileInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.csproj.CopyComplete
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\refint\PlanetRP.DependencyInjectionsExtensions.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\PlanetRP.DependencyInjectionsExtensions.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.DependencyInjectionExtensions\obj\Debug\ref\PlanetRP.DependencyInjectionsExtensions.dll

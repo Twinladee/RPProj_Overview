@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanetRP.DAL", "PlanetRP.DAL\PlanetRP.DAL.csproj", "{61D2F40D-72DD-415E-A160-0348BD2B4560}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanetRP.Core", "PlanetRP.Core\PlanetRP.Core.csproj", "{C6774CFA-F351-4EDE-9435-316971B88A6B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834} = {FD6D5F96-5764-40AC-8229-D1E0988E1834}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanetRP.Server", "PlanetRP.Server\PlanetRP.Server.csproj", "{9AABDF60-4319-45F9-83C1-5E9976AB13F0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{60451027-48AA-4981-A248-24859F2E546B} = {60451027-48AA-4981-A248-24859F2E546B}
+		{61D2F40D-72DD-415E-A160-0348BD2B4560} = {61D2F40D-72DD-415E-A160-0348BD2B4560}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{457C84BA-C68B-4761-B292-3791D09865F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{C91E6388-EE9E-4276-9C7C-6FD45A6D0813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanetRP.Shared", "PlanetRP.Shared\PlanetRP.Shared.csproj", "{60451027-48AA-4981-A248-24859F2E546B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanetRP.DependencyInjectionsExtensions", "PlanetRP.DependencyInjectionExtensions\PlanetRP.DependencyInjectionsExtensions.csproj", "{FD6D5F96-5764-40AC-8229-D1E0988E1834}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{EB3BB04C-37A3-40DF-9C27-08C75E610D08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{ADB12AFC-0FE4-4AC4-A455-AF3BEC7D5FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetRP.Client", "PlanetRP.Client\PlanetRP.Client.csproj", "{A549230E-6238-4F8F-8338-AB646B7CD1B2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{60451027-48AA-4981-A248-24859F2E546B} = {60451027-48AA-4981-A248-24859F2E546B}
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834} = {FD6D5F96-5764-40AC-8229-D1E0988E1834}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D2F40D-72DD-415E-A160-0348BD2B4560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D2F40D-72DD-415E-A160-0348BD2B4560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D2F40D-72DD-415E-A160-0348BD2B4560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D2F40D-72DD-415E-A160-0348BD2B4560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6774CFA-F351-4EDE-9435-316971B88A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6774CFA-F351-4EDE-9435-316971B88A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6774CFA-F351-4EDE-9435-316971B88A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6774CFA-F351-4EDE-9435-316971B88A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AABDF60-4319-45F9-83C1-5E9976AB13F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AABDF60-4319-45F9-83C1-5E9976AB13F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AABDF60-4319-45F9-83C1-5E9976AB13F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AABDF60-4319-45F9-83C1-5E9976AB13F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60451027-48AA-4981-A248-24859F2E546B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60451027-48AA-4981-A248-24859F2E546B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60451027-48AA-4981-A248-24859F2E546B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60451027-48AA-4981-A248-24859F2E546B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A549230E-6238-4F8F-8338-AB646B7CD1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A549230E-6238-4F8F-8338-AB646B7CD1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A549230E-6238-4F8F-8338-AB646B7CD1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A549230E-6238-4F8F-8338-AB646B7CD1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61D2F40D-72DD-415E-A160-0348BD2B4560} = {457C84BA-C68B-4761-B292-3791D09865F2}
+		{C6774CFA-F351-4EDE-9435-316971B88A6B} = {457C84BA-C68B-4761-B292-3791D09865F2}
+		{9AABDF60-4319-45F9-83C1-5E9976AB13F0} = {457C84BA-C68B-4761-B292-3791D09865F2}
+		{60451027-48AA-4981-A248-24859F2E546B} = {C91E6388-EE9E-4276-9C7C-6FD45A6D0813}
+		{FD6D5F96-5764-40AC-8229-D1E0988E1834} = {EB3BB04C-37A3-40DF-9C27-08C75E610D08}
+		{A549230E-6238-4F8F-8338-AB646B7CD1B2} = {ADB12AFC-0FE4-4AC4-A455-AF3BEC7D5FB0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F3F69B-8099-42BE-BF91-4F11232FCE3A}
+	EndGlobalSection
+EndGlobal

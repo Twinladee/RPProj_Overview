@@ -1,0 +1,13 @@
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.Core.deps.json
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.Core.dll
+C:\Hobby\PlanetRP\resources\planetrp\planetrp-server\PlanetRP.Core.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.csproj.AssemblyReference.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.AssemblyInfoInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.AssemblyInfo.cs
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.csproj.CoreCompileInputs.cache
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.csproj.CopyComplete
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\refint\PlanetRP.Core.dll
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\PlanetRP.Core.pdb
+C:\Hobby\PlanetRP\src-server\PlanetRP.Core\obj\Debug\ref\PlanetRP.Core.dll

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PlanetRP.Server": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Hobby\\PlanetRP\\altv-server.exe",
+      "workingDirectory": "C:\\Hobby\\PlanetRP"
+    }
+  }
+}
